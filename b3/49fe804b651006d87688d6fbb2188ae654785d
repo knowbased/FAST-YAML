@@ -1,0 +1,19 @@
+src/FAST-YAML-Tools/FASTYAMLImporter.class.st
+  s_00e2e42ec5ff03::t_3eb06e29b8fa57 16,18,21,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b349fe804b651006d87688d6fbb2188ae654785d",
+  "prompts": {},
+  "sessions": {
+    "s_00e2e42ec5ff03": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ba55d6a3-07d2-46d3-a3e9-6fc4a3432e60",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Kilian B <60846047+knowbased@users.noreply.github.com>"
+    }
+  }
+}
